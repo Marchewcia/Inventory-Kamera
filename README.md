@@ -1,0 +1,5 @@
+# Important notice!
+This is a improved rewrite of a fork of Inventory Kamera that you can find <a href="https://github.com/taiwenlee/Inventory_Kamera">here</a>. More informations in <a href="#History">History</a> tab of this readme.
+
+# History
+This is a total rewrite of Inventory Kamera, orginally created by <a href="https://github.com/Andrewthe13th">Andrewthe13th</a> and later maintained by <a href="https://github.com/Cupcak3">Cupcak3</a>. Later, when interest in maintaining Kamera ran out, it was maintained by <a href="https://github.com/taiwenlee/">Taiwenlee</a> with a little help of me. This repository is a complete rewrite of Taiwenlee's updated (accounting for among others: sanctyfying elixir artifacts and addition of Mannequins) version of Kamera that is supposed to be build on newer technology, with made-over user interface, QoL features such as: update of this program itself within itself, improved storage of scanned data and logs and in future cross-platform availability (native desktop linux, possibly mobile devices).
